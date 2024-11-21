@@ -7,7 +7,6 @@
 - docker compose up -d
 
 # FrontEnd
-- npx create-react-app trello-frontend (Iniciar no frontend)
 - npm install axios
 - npm install cross-env --save-dev
 
